@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! My name is Cecilia, a frontend developer from Argentina</h2>
+<h2 align="left">Hi 👋! My name is Cecilia, a student of Information Systems Engineering from Argentina</h2>
 <h2 align="left">About Me</h2>
-<p>I'm a student of Information Systems Engineering at UTN. My goal is to become a frontend developer. My hobbies include reading fiction novels, writing, and learning about various topics. I enjoy exercising, spending time outdoors, and being with my loved ones.</p>
+<p>My goal is to become a frontend developer. My hobbies include reading fiction novels, writing, and learning about various topics. I enjoy exercising, spending time outdoors, and being with my loved ones.</p>
 
 <h2 align="left">Learning</h2>
 <p>I'm currently diving into CSS and Javascript.</p>
