@@ -3,9 +3,7 @@
 <p>My goal is to become a frontend developer. My hobbies include reading fiction novels, writing, and learning about various topics. I enjoy exercising, spending time outdoors, and being with my loved ones.</p>
 
 <h2 align="left">Learning</h2>
-<p>I'm currently diving into CSS and Javascript.</p>
-
-<br clear="both">
+<p>I have experience with HTML, CSS and Python. I'm currently diving into CSS and Javascript.</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
@@ -27,6 +25,9 @@
 
 <br clear="both">
 
+<h2 align="left">Get in Touch</h2>
+<p>Feel free to reach out if you want to collaborate on a project, have a chat about tech, or just say hi! You can connect with me on <a href="https://www.linkedin.com/in/cecilia-r-127779246/" target="_blank">LinkedIn</a>, send me an email at <a href="mailto:ravacecilia1@gmail.com">ravacecilia1@gmail.com</a>, or find me on <a href="https://discord.com/users/lia01046" target="_blank">Discord</a>.</p>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/cecilia-r-127779246/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
@@ -41,7 +42,3 @@
 
 ###
 <br clear="both">
-
-<h2 align="left">Get in Touch</h2>
-<p>Feel free to reach out if you want to collaborate on a project, have a chat about tech, or just say hi! You can connect with me on <a href="https://www.linkedin.com/in/cecilia-r-127779246/" target="_blank">LinkedIn</a>, send me an email at <a href="mailto:ravacecilia1@gmail.com">ravacecilia1@gmail.com</a>, or find me on <a href="https://discord.com/users/lia01046" target="_blank">Discord</a>.</p>
-
