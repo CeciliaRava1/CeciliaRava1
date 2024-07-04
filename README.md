@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Cecilia, a student of Information Systems Engineering from Argentina</h2>
+<h2 align="left">Hi! My name is Cecilia, a student of Information Systems Engineering from Argentina</h2>
 <h2 align="left">About Me</h2>
 <p>My goal is to become a frontend developer. My hobbies include reading fiction novels, writing, and learning about various topics. I enjoy exercising, spending time outdoors, and being with my loved ones.</p>
 
