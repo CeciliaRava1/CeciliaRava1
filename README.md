@@ -3,7 +3,7 @@
 <p>My goal is to become a frontend developer. My hobbies include reading fiction novels, writing, and learning about various topics. I enjoy exercising, spending time outdoors, and being with my loved ones.</p>
 
 <h2 align="left">Learning</h2>
-<p>I have experience with HTML, CSS and Python. I'm currently diving into CSS and Javascript.</p>
+<p>I have experience with HTML, CSS, Javascript and Python. I'm currently diving into Javascript and Java.</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
