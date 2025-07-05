@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Javascript and programming logic<br>📚 Student of Information Systems Engineering since 2022<br>🎯 Goal: Create a responsive website</p>
+<p align="left">📚 I'm currently learning Python and programming logic<br>📚 Student of Information Systems Engineering since 2022<br>🎯 Goal: Create a responsive website</p>
 
 ###
 
